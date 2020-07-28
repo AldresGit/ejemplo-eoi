@@ -1,3 +1,3 @@
-Hola mundo
+Proyecto con conflictos
 
 Ahora viene otra linea
